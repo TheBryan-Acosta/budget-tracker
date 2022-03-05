@@ -9,7 +9,7 @@ Challenge 19 This Weeks challenge was to create a budget tracker pwa
 
 ### **Description**
 
-A mobile friendly app that lets you manage your finances online or offline, using indexdb and inplementing a serviceworker & manifest.json
+A mobile friendly app that lets you manage your finances online or offline, using indexedDB and inplementing a serviceworker & manifest.json
 
 ## **Examples**
 <img width="1283" alt="Screen Shot 2022-03-05 at 1 32 41 AM" src="https://user-images.githubusercontent.com/82281061/156873579-9b0517e1-1f5d-482b-a200-4fb916d8b4ea.png">
